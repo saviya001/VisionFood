@@ -38,12 +38,15 @@ vision-food-repo/
 │   │   ├── 📂 lib/           # Sanity Client & Utils
 │   │   └── 📂 styles/        # Global CSS
 │   ├── .env.local            # Environment Variables
+│   
 │   ├── next.config.mjs       # Next.js Config
 │   └── tailwind.config.ts    # Tailwind Config
 │
 ├── 📂 backend/               # Sanity Studio (CMS)
 │   ├── 📂 schemas/           # Content Schemas (Product, Category)
 │   ├── sanity.config.ts      # Sanity Configuration
-│   └── sanity.cli.ts         # CLI Config
+│   └── sanity.cli.ts
+│        # CLI Config
+│   └──.env
 │
 └── README.md                 # Project Documentation
