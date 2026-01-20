@@ -26,7 +26,7 @@ export default function AboutPage() {
               More Than Just <br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-red-500">Delicious Food</span>
             </h1>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-              We started Vision Food with a simple mission: to deliver the authentic taste of premium ingredients directly to your doorstep, faster than anyone else.
+              We started Vision Food with a simple mission: to deliver the authentic taste of premium ingredients directly to your doorstep faster than anyone else.
             </p>
           </motion.div>
         </div>
@@ -67,7 +67,7 @@ export default function AboutPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">We Cook With <span className="text-orange-500">Passion</span></h2>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              At Vision Food, quality isn't just a word; it's our promise. Our chefs select only the freshest local ingredients every morning. From the crisp vegetables to the premium meats, everything is chosen with care.
+              At Vision Food quality isn't just a word; it's our promise. Our chefs select only the freshest local ingredients every morning. From the crisp vegetables to the premium meats everything is chosen with care.
             </p>
             <p className="text-gray-400 mb-8 leading-relaxed">
               Whether you're craving a cheesy pizza, a juicy burger, or a refreshing drink, we guarantee a taste that will make you come back for more.
