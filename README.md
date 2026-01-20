@@ -47,6 +47,6 @@ vision-food-repo/
 │   ├── sanity.config.ts      # Sanity Configuration
 │   └── sanity.cli.ts
 │        # CLI Config
-│   └──.env
+│   └── .env
 │
 └── README.md                 # Project Documentation
